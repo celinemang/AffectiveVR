@@ -1,4 +1,4 @@
-## Affective VR
+# Affective VR
 
-# How to open Classroom scene
+## How to open Classroom scene
 Follow this steps: Assets -> school -> Scenes -> Classroom. Open the Classroom Scene.
