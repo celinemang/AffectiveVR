@@ -44,7 +44,7 @@ public class Tutorial: MonoBehaviour
     }
 
     // Hide everything on B press
-    if (OVRInput.GetDown(OVRInput.Button.Two, OVRInput.Controller.RTouch))
+    if (OVRInput.GetDown(OVRInput.Button.Two, OVRInput.Controller.RTouch) || Input.GetKeyDown(KeyCode.S))
     {
         HideAllPopups();
 

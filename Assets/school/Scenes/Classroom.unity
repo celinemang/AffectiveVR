@@ -6354,7 +6354,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: c46afe706fb2cde4883f7afaeaa67a78, type: 3}
 --- !u!4 &545213196 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 9223372036854775806, guid: c46afe706fb2cde4883f7afaeaa67a78,
+  m_CorrespondingSourceObject: {fileID: 4173873760860446, guid: c46afe706fb2cde4883f7afaeaa67a78,
     type: 3}
   m_PrefabInstance: {fileID: 545213195}
   m_PrefabAsset: {fileID: 0}
@@ -6900,8 +6900,8 @@ MonoBehaviour:
   layersToInclude:
     serializedVersion: 2
     m_Bits: 4294967295
-  rayColorDefault: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  rayColorHoverState: {r: 1, g: 0, b: 0, a: 1}
+  rayColorDefault: {r: 1, g: 1, b: 1, a: 0}
+  rayColorHoverState: {r: 1, g: 1, b: 1, a: 0}
   leftEye: {fileID: 17238287}
   rightEye: {fileID: 1792761377}
 --- !u!120 &581836923
@@ -19807,7 +19807,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 405988af1bd38ee4fb92e86058b6c926, type: 3}
 --- !u!4 &1682562897 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 9223372036854775806, guid: 405988af1bd38ee4fb92e86058b6c926,
+  m_CorrespondingSourceObject: {fileID: 4240109998300524, guid: 405988af1bd38ee4fb92e86058b6c926,
     type: 3}
   m_PrefabInstance: {fileID: 1682562896}
   m_PrefabAsset: {fileID: 0}

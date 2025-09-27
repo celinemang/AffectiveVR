@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = 
-build_property.ProjectDir = /Users/celine/Code/GitHub/AffectiveVR/
+build_property.ProjectDir = /Users/celine/Code/GitHub/AffectiveVR/AffectiveVR/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
