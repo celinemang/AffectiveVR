@@ -10,3 +10,7 @@ Follow this steps: Assets -> school -> Scenes -> Classroom. Open the Classroom S
 3. The Tutorial will start first.
 4. Once the tutorial is done, start the experiment either pressing letter "S" on the keyboard or "B" button on the right controller.
 5. To end the experiment, press ⏸️ in unity. 
+
+
+# This is the demo of the proejct.
+https://docs.google.com/presentation/d/1kX6_JJFc8tnkbM2jwnVG1Q3RMSw6pfWwVepF-UyKJs4/edit?usp=sharing
